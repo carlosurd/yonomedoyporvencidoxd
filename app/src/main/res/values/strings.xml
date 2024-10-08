@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Mapa</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="title_activity_splash">splash</string>
+</resources>
